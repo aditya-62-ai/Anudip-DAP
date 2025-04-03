@@ -1,0 +1,6 @@
+Product_ID,Product_Name,Category,Original_Stock,Sold_Stock,Remaining_Stock,Discount_Applied (%),Revenue_Generated ($)
+NK001,Nike Air Max,Shoes,500,450,50,30,45000
+NK002,Nike Revolution,Shoes,400,350,50,25,35000
+NK003,Nike Pegasus,Shoes,300,270,30,20,27000
+NK004,Nike Metcon,Shoes,250,230,20,15,23000
+NK005,Nike Free RN,Shoes,600,550,50,35,55000
